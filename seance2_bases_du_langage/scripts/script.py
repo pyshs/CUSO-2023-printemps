@@ -1,4 +1,4 @@
-sortie_fichier = True
+sortie_fichier = False
 nombre_min_lettres = 4
 phrase = input("Écrivez une phrase: ")
 liste_mots = phrase.split(" ")
